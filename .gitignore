@@ -1,0 +1,28 @@
+# Node.js modules
+node_modules/
+
+# Environment files
+.env
+
+# Build / dist folders
+/dist
+/build
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Local experimental / secret files
+/js/worker.js
+/js/experimental.js
+/pages/additional.html
