@@ -8,6 +8,6 @@ async function loadComponent(id, file) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  loadComponent("header", "../pages/partials/header.html");
-  loadComponent("footer", "../pages/partials/footer.html");
+  loadComponent("header", "./pages/partials/header.html");
+  loadComponent("footer", "./pages/partials/footer.html");
 });
