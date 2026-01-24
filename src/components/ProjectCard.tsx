@@ -60,6 +60,16 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
           >
             {getLinkText()}
           </a>
+          {project.linkSecond && (
+            <a
+              href={project.linkSecond}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.projectLink}
+            >
+              Web Page
+            </a>
+          )}
         </div>
       </div>
     </div>

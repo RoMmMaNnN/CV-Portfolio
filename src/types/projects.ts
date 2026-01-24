@@ -12,6 +12,7 @@ export interface Project {
   image: string;
   tags: string[];
   link: string;
+  linkSecond?: string;
   progress?: number;
   estimatedRelease?: string;
   status?: 'completed' | 'in-progress' | 'planned';

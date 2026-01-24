@@ -102,6 +102,7 @@ export const completedProjects: Project[] = [
     image: 'https://images.ireland.com/media/Images/magazine/culture/winter-in-belfast/c9dbcef9195843efbec8826d472b235b.jpg',
     tags: ['JavaScript', 'HTML', 'CSS'],
     link: 'https://github.com/RoMmMaNnN/Belfast-for-tourists',
+    linkSecond: 'https://rommmannn.github.io/Belfast-for-tourists/',
     status: 'completed',
   },
   {
