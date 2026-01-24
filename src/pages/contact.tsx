@@ -89,12 +89,28 @@ const Contact: React.FC = () => {
                   GitHub
                 </a>
                 <a
-                  href="https://linkedin.com/in/roman-kriuchkov-259972367"
+                  href="https://linkedin.com/in/roman-kriuchkov"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={styles.socialLink}
                 >
                   LinkedIn
+                </a>
+                <a
+                  href="https://t.me/RoMmMaAaNnNnNnN"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.socialLink}
+                >
+                  Telegram
+                </a>
+                <a
+                  href="https://wa.me/qr/AS6HAVUQS552K1v"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.socialLink}
+                >
+                  WhatsApp
                 </a>
               </div>
             </div>
