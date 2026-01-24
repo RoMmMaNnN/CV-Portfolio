@@ -1,7 +1,11 @@
 import React, { useEffect, useRef } from 'react';
 import Layout from '@/components/Layout';
 import Link from 'next/link';
+import Image from 'next/image';
 import styles from '@/styles/Home.module.css';
+
+// Get basePath from next config
+const basePath = process.env.NODE_ENV === 'production' ? '/CV-Portfolio' : '';
 
 const Home: React.FC = () => {
   const subtitleRef = useRef<HTMLHeadingElement>(null);
@@ -55,9 +59,12 @@ const Home: React.FC = () => {
           <div className={styles.heroImage}>
             <div className={styles.profileCard}>
               <div className={styles.profileAvatar}>
-                <img
-                  src="/images/image.png"
+                <Image
+                  src={`${basePath}/images/image.png`}
                   alt="Profile"
+                  width={200}
+                  height={200}
+                  priority
                 />
               </div>
               <div className={styles.statusIndicator}>
