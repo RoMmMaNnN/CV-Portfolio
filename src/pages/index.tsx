@@ -15,7 +15,7 @@ const Home: React.FC = () => {
         <div className={styles.heroContent}>
           <div className={styles.heroText}>
             <h1 className={styles.heroTitle}>
-              Junior Backend Developer (Java / Spring Boot)
+              Junior Backend Developer (Java)
             </h1>
             <h2 className={styles.heroSubtitle}>
               Software Engineering Student with Commercial Experience
