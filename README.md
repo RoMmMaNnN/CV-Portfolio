@@ -1,130 +1,100 @@
-# Roman Kriuchkov — Backend Developer
+# Roman Kriuchkov — Junior Backend Developer (Java)
 
-Backend Developer with strong foundations in computer science and hands-on experience building scalable backend systems. Currently working part-time with TypeScript and Go, while continuously deepening expertise in system design, APIs, databases, and distributed systems. Strong focus on clean architecture, correctness, and maintainability.
+Junior backend developer and Software Engineering student with commercial experience building RESTful backend systems. Strong foundation in Java, Spring Boot, microservice architectures, and relational databases. Experience with production-style backend projects including authentication, transactions, caching, and event-driven systems. Seeking junior, graduate, or placement backend roles in the UK.
 
-🌍 Location: Belfast, Northern Ireland  
-💼 Status: Part-time Backend Developer  
-📧 Contact: roman.kriuchkov7@gmail.com + https://linkedin.com/in/roman-kriuchkov-259972367  
-🌐 Portfolio: https://rommmannn.github.io/WEB-CV
-
----
-
-## Technical Skills
-
-### Backend
-- TypeScript, Go, Java, Python
-- Node.js, NestJS, Spring Boot
-- RESTful APIs, layered architecture, DTOs
-- Authentication & authorization basics
-- Message-based communication fundamentals
-
-### Databases
-- PostgreSQL, SQLite
-- Indexing, transactions, normalization
-- SQL performance basics
-
-### Frontend
-- React, Next.js
-- TypeScript (strict mode)
-- HTML5, CSS Modules
-
-### DevOps & Tooling
-- Git, GitHub, GitHub Actions
-- Docker (basic usage)
-- Linux CLI
-- Static site deployment (GitHub Pages)
+📍 Belfast, UK  
+💼 Part-Time Backend Developer @ Zardan Systems  
+📧 roman.kriuchkov7@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/roman-kriuchkov-259972367) | [GitHub](https://github.com/RoMmMaNnN)  
+🌐 [Portfolio](https://rommmannn.github.io/CV-Portfolio)
 
 ---
 
-## Work Experience
+## Core Tech Stack
 
-### Backend Developer (Part-Time)  
-**Zardan Systems**  
-*October 2025 – Present*
-
-- Developing backend services using TypeScript and Go
-- Working with APIs and modular backend architecture
-- Contributing to scalable and maintainable systems
-- Collaborating in a production-oriented development environment
+**Languages:** Java, TypeScript, Python  
+**Backend:** Spring Boot, REST APIs, JPA/Hibernate, NestJS  
+**Databases:** PostgreSQL, MySQL, Redis  
+**Architecture & Messaging:** Microservices, MVC, Apache Kafka  
+**DevOps:** Docker, Git  
+**Cloud:** AWS (EC2, RDS – academic & small projects)
 
 ---
 
-### Digital Skills Academy Trainee  
-**Belfast Met & FIT (sponsored by Bank of America)**  
-*June 2025 – October 2025*
-
-- Completed an intensive, industry-driven training programme
-- Strengthened practical programming and software engineering skills
-- Gained exposure to real-world development practices and teamwork
-
----
-
-### Curator  
-**Online School StudentUA**  
-*September 2024 – June 2025*
-
-- Supervised students’ academic progress
-- Provided guidance and mentoring
-- Supported student motivation and mental well-being
-
----
-
-### Mathematics Tutor  
-**Online School StudentUA**  
-*September 2024 – June 2025*
-
-- Tutored high school students in mathematics
-- Prepared students for the Ukrainian National Multi-Subject Test (NMT)
-- Designed personalized study plans
-
----
-
-## Selected Projects
+## Featured Backend Projects
 
 ### LoanCompany
-Enterprise-style backend project built with Spring Boot, focused on layered architecture, business logic separation, and database-driven workflows.  
-**Stack:** Java, Spring Boot, PostgreSQL, REST, JPA  
-🔗 https://github.com/RoMmMaNnN/LoanCompany
+Financial institution loan management REST API with authentication, payment tracking, and admin workflows.
+
+- Built RESTful API for loan application processing with multi-stage approval workflow
+- Implemented role-based access control (RBAC) with Spring Security and JWT
+- Designed transactional payment processing system with ACID guarantees
+- Integrated Redis for caching and Kafka for event streaming
+- Dockerized application with multi-container orchestration
+
+**Tech:** Java, Spring Boot, PostgreSQL, REST API, Docker, Kafka, Redis  
+🔗 [GitHub](https://github.com/RoMmMaNnN/LoanCompany)
 
 ---
 
-### Belfast for Tourists
-Web application showcasing tourist locations and information about Belfast.  
-**Stack:** TypeScript, React / Next.js  
-🔗 https://github.com/RoMmMaNnN/Belfast-for-tourists
+### NestJS REST API
+Production-style REST API demonstrating authentication, database integration, and modern TypeScript backend patterns.
+
+- Implemented authentication with JWT tokens and refresh token rotation
+- Built CRUD endpoints with validation using DTOs and class-validator
+- Integrated TypeORM with PostgreSQL for entity management and migrations
+- Applied dependency injection pattern and modular architecture
+- Configured Docker Compose for local development
+
+**Tech:** NestJS, TypeScript, PostgreSQL, REST API, JWT, Docker, TypeORM  
+🔗 [GitHub](https://github.com/RoMmMaNnN/Nest-Learning)
 
 ---
 
-### Nest Learning
-Educational backend project created to explore NestJS concepts and best practices.  
-**Stack:** TypeScript, NestJS  
-🔗 https://github.com/RoMmMaNnN/Nest-Learning
+### CRM System (Ongoing)
+Order and client lifecycle management REST API with asynchronous task processing and caching.
+
+- Implementing RESTful API for managing customer lifecycle and deal pipeline
+- Integrating Redis for session caching and data optimization
+- Building event-driven architecture with Kafka for async processing
+- Designing relational schema with transactional integrity
+
+**Tech:** Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker  
+🔗 [GitHub](https://github.com/RoMmMaNnN/First_CRM)
 
 ---
 
-### Telegram Bots
-Collection of Telegram bots automating workflows and user interactions.  
-**Stack:** Python, Aiogram, SQLite  
-🔗 https://github.com/RoMmMaNnN/TG-Bot
+## Commercial Experience
+
+**Backend Developer (Part-Time)** — Zardan Systems  
+*October 2025 – Present*
+
+- Contributing to backend services using TypeScript and Go
+- Designing and maintaining REST APIs
+- Collaborating with product and frontend teams
+- Participating in debugging and feature delivery
 
 ---
 
 ## Education
 
-- Software Engineering / Information Technology  
-- Previous studies at National Technical University of Ukraine  
-- Currently studying in the UK
+**BEng Software Engineering** — Queen's University Belfast  
+*2025 – Present (Placement Year Available)*
+
+**Software Engineering (Year 1)** — National Technical University of Ukraine "Igor Sikorsky KPI"  
+*Completed Year 1*
 
 ---
 
-## Goals
+## Contact
 
-- Grow into a strong mid-level backend engineer
-- Deepen understanding of system design and distributed systems
-- Build production-grade software with long-term maintainability
+📧 roman.kriuchkov7@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/roman-kriuchkov-259972367)  
+💻 [GitHub](https://github.com/RoMmMaNnN)  
+🌐 [Portfolio Website](https://rommmannn.github.io/CV-Portfolio)
 
 ---
 
-## Notes
+## About This Repository
 
-This repository contains the source code for my personal CV website built with **Next.js + TypeScript** and deployed to **GitHub Pages** as a fully static site.
+This repository contains the source code for my personal CV/portfolio website built with **Next.js + TypeScript** and deployed to **GitHub Pages** as a fully static site.

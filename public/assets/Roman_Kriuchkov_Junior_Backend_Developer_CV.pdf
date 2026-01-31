@@ -1,0 +1,77 @@
+Roman Kriuchkov — Junior Backend Developer (Java / Spring Boot)
+===============================================================
+
+Software Engineering student with commercial backend experience
+
+Contact
+-------
+Email: roman.kriuchkov7@gmail.com
+LinkedIn: linkedin.com/in/roman-kriuchkov-259972367
+GitHub: github.com/RoMmMaNnN
+Location: Belfast, UK
+
+Technical Skills
+---------------
+Languages: Java, TypeScript, Python
+Backend: Spring Boot, REST APIs, JPA/Hibernate, NestJS
+Databases: PostgreSQL, MySQL, Redis
+Architecture & Messaging: Microservices, MVC, Apache Kafka
+DevOps: Docker, Git
+Cloud: AWS (EC2, RDS – academic & small projects)
+
+Commercial Experience
+--------------------
+Backend Developer (Part-Time) — Zardan Systems
+October 2025 – Present
+
+• Contributing to backend services using TypeScript and Go
+• Designing and maintaining REST APIs
+• Collaborating with product and frontend teams
+• Participating in debugging and feature delivery
+
+Featured Projects
+-----------------
+LoanCompany
+Financial institution loan management REST API
+
+• Built RESTful API for loan application processing with multi-stage approval workflow
+• Implemented role-based access control (RBAC) with Spring Security and JWT
+• Designed transactional payment processing system with ACID guarantees
+• Integrated Redis for caching and Kafka for event streaming
+
+Tech: Java, Spring Boot, PostgreSQL, REST API, Docker, Kafka, Redis
+GitHub: github.com/RoMmMaNnN/LoanCompany
+
+NestJS REST API
+Production-style REST API with authentication and database integration
+
+• Implemented authentication with JWT tokens and refresh token rotation
+• Built CRUD endpoints with validation using DTOs and class-validator
+• Integrated TypeORM with PostgreSQL for entity management
+• Applied dependency injection pattern and modular architecture
+
+Tech: NestJS, TypeScript, PostgreSQL, REST API, JWT, Docker, TypeORM
+GitHub: github.com/RoMmMaNnN/Nest-Learning
+
+Education
+---------
+BEng Software Engineering — Queen's University Belfast
+2025 – Present (Placement Year Available)
+
+Software Engineering — KPI (Ukraine)
+Completed Year 1
+
+Other Experience
+---------------
+Software Development Trainee — Belfast Met & FIT
+June 2025 – October 2025
+• Industry-led training in Python and SQL
+• Built REST APIs and worked with relational databases
+
+Mathematics Tutor / Curator — StudentUA
+September 2024 – June 2025
+• Explained complex technical concepts and mentored students
+
+---
+This is a text placeholder. A properly formatted PDF CV will be generated.
+For the most up-to-date version, visit: https://rommmannn.github.io/CV-Portfolio

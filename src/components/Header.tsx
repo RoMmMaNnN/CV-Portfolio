@@ -83,15 +83,6 @@ const Header: React.FC = () => {
               Contact
             </Link>
           </li>
-          <li>
-            <Link
-              href="/about"
-              className={`${styles.navLink} ${isActive('/about') ? styles.active : ''}`}
-              onClick={closeMenu}
-            >
-              About
-            </Link>
-          </li>
         </ul>
         <div
           className={`${styles.hamburger} ${isMenuOpen ? styles.active : ''}`}

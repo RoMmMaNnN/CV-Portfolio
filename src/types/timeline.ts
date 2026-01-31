@@ -6,4 +6,5 @@ export interface TimelineItem {
   organizationUrl: string;
   date: string;
   description: string;
+  location?: string;
 }

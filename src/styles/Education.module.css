@@ -6,7 +6,7 @@
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 4rem 2rem;
+  padding: 1rem;
 }
 
 .sectionHeader {
@@ -111,10 +111,11 @@
 }
 
 .date {
-  color: #94a3b8;
+  color: #cbd5e1;
   font-size: 0.875rem;
   margin-bottom: 1rem;
   display: block;
+  font-weight: 500;
 }
 
 .description {

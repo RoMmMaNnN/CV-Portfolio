@@ -16,6 +16,7 @@ export interface Project {
   progress?: number;
   estimatedRelease?: string;
   status?: 'completed' | 'in-progress' | 'planned';
+  details?: string[];
 }
 
 export interface SkillsData {
