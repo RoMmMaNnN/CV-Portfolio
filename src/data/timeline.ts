@@ -43,7 +43,7 @@ export const experienceData: TimelineItem[] = [
     title: 'Mathematics Tutor / Curator',
     organization: 'Online School StudentUA',
     organizationUrl: 'https://student.ua/',
-    date: 'September 2024 – June 2025',
+    date: 'August 2024 – June 2025',
     location: 'Remote',
     description:
       'Explained complex technical concepts and adapted communication style for diverse learning needs.',
