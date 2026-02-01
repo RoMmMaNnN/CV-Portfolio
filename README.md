@@ -1,100 +1,86 @@
-# Roman Kriuchkov — Junior Backend Developer (Java)
+# ROMAN KRIUCHKOV
 
-Junior backend developer and Software Engineering student with commercial experience building RESTful backend systems. Strong foundation in Java, Spring Boot, microservice architectures, and relational databases. Experience with production-style backend projects including authentication, transactions, caching, and event-driven systems. Seeking junior, graduate, or placement backend roles in the UK.
-
-📍 Belfast, UK  
-💼 Part-Time Backend Developer @ Zardan Systems  
-📧 roman.kriuchkov7@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/roman-kriuchkov-259972367) | [GitHub](https://github.com/RoMmMaNnN)  
-🌐 [Portfolio](https://rommmannn.github.io/CV-Portfolio)
+**Belfast, County Antrim**  
++44 7795 270873 · roman.kriuchkov7@gmail.com  
+GitHub: https://github.com/RoMmMaNnN · Portfolio: https://rommmannn.github.io/CV-Portfolio · LinkedIn: https://linkedin.com/in/roman-kriuchkov
 
 ---
 
-## Core Tech Stack
+## SUMMARY
 
-**Languages:** Java, TypeScript, Python  
-**Backend:** Spring Boot, REST APIs, JPA/Hibernate, NestJS  
-**Databases:** PostgreSQL, MySQL, Redis  
-**Architecture & Messaging:** Microservices, MVC, Apache Kafka  
-**DevOps:** Docker, Git  
-**Cloud:** AWS (EC2, RDS – academic & small projects)
+**Junior Java Backend Developer** and Software Engineering student with commercial experience building backend services using Java and Spring Boot.  
+Hands-on experience with REST APIs, SQL persistence, Kafka-based messaging, security, and Docker.
 
 ---
 
-## Featured Backend Projects
+## EXPERIENCE
 
-### LoanCompany
-Financial institution loan management REST API with authentication, payment tracking, and admin workflows.
+### Backend Developer — Zardan Systems  
+*October 2024 – Present*
 
-- Built RESTful API for loan application processing with multi-stage approval workflow
-- Implemented role-based access control (RBAC) with Spring Security and JWT
-- Designed transactional payment processing system with ACID guarantees
-- Integrated Redis for caching and Kafka for event streaming
-- Dockerized application with multi-container orchestration
+- Built event-driven backend components consuming Kafka messages for asynchronous integration with external database systems.
+- Implemented idempotent Kafka consumers with schema validation, enabling safe retries and data consistency across services.
+- Developed secure service-to-service communication using mutual TLS (mTLS) within internal backend systems.
+- Designed backend services and mock REST APIs to emulate third-party integrations and support reliable integration testing.
+- Containerized backend services with Docker and Docker Compose to standardize local development and integration environments.
 
-**Tech:** Java, Spring Boot, PostgreSQL, REST API, Docker, Kafka, Redis  
-🔗 [GitHub](https://github.com/RoMmMaNnN/LoanCompany)
+### Software Development Trainee — Belfast Met & FIT (Bank of America)  
+*July 2025 – October 2025*
 
----
+- Completed industry-led software development programme covering Python, SQL, relational data modeling, and backend fundamentals.
+- Built basic REST-style backend components and worked with SQL queries through hands-on labs and assessments.
 
-### NestJS REST API
-Production-style REST API demonstrating authentication, database integration, and modern TypeScript backend patterns.
+### Mathematics Tutor / Academic Curator — StudentUA  
+*August 2024 – July 2025*
 
-- Implemented authentication with JWT tokens and refresh token rotation
-- Built CRUD endpoints with validation using DTOs and class-validator
-- Integrated TypeORM with PostgreSQL for entity management and migrations
-- Applied dependency injection pattern and modular architecture
-- Configured Docker Compose for local development
-
-**Tech:** NestJS, TypeScript, PostgreSQL, REST API, JWT, Docker, TypeORM  
-🔗 [GitHub](https://github.com/RoMmMaNnN/Nest-Learning)
+- Delivered individual and group mathematics tutoring, developing clear explanations for complex concepts.
 
 ---
 
-### CRM System (Ongoing)
-Order and client lifecycle management REST API with asynchronous task processing and caching.
+## PROJECTS
 
-- Implementing RESTful API for managing customer lifecycle and deal pipeline
-- Integrating Redis for session caching and data optimization
-- Building event-driven architecture with Kafka for async processing
-- Designing relational schema with transactional integrity
+### LoanCompany — Spring Boot Backend Platform  
+*(GitHub: https://github.com/RoMmMaNnN/LoanCompany)*
 
-**Tech:** Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker  
-🔗 [GitHub](https://github.com/RoMmMaNnN/First_CRM)
+- Built REST APIs for loan application, approval, and payment workflows using Spring Boot.
+- Implemented role-based access control with Spring Security and JWT authentication.
+- Integrated PostgreSQL (JPA/Hibernate) for transactional persistence and Kafka + Redis for event-driven processing and caching.
 
----
+### NestJS REST API — Learning Project
 
-## Commercial Experience
-
-**Backend Developer (Part-Time)** — Zardan Systems  
-*October 2025 – Present*
-
-- Contributing to backend services using TypeScript and Go
-- Designing and maintaining REST APIs
-- Collaborating with product and frontend teams
-- Participating in debugging and feature delivery
+- Developed REST APIs with JWT-based authentication and role-based authorization.
+- Implemented validated CRUD endpoints using DTOs and TypeORM.
+- Applied dependency injection and modular backend architecture principles.
 
 ---
 
-## Education
+## SKILLS
 
-**BEng Software Engineering** — Queen's University Belfast  
-*2025 – Present (Placement Year Available)*
-
-**Software Engineering (Year 1)** — National Technical University of Ukraine "Igor Sikorsky KPI"  
-*Completed Year 1*
-
----
-
-## Contact
-
-📧 roman.kriuchkov7@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/roman-kriuchkov-259972367)  
-💻 [GitHub](https://github.com/RoMmMaNnN)  
-🌐 [Portfolio Website](https://rommmannn.github.io/CV-Portfolio)
+- **Core:** Java, Spring Boot, REST APIs, JPA/Hibernate  
+- **Data:** PostgreSQL, Redis  
+- **Messaging:** Apache Kafka  
+- **DevOps:** Docker, Docker Compose
 
 ---
 
-## About This Repository
+## EDUCATION
 
-This repository contains the source code for my personal CV/portfolio website built with **Next.js + TypeScript** and deployed to **GitHub Pages** as a fully static site.
+**BEng Software Engineering — Queen’s University Belfast**  
+*2025 – Present*
+
+Previously completed Year 1 of Software Engineering at Igor Sikorsky Kyiv Polytechnic Institute (2024 – 2025), covering algorithms, Java, C/C++, networks, and computer systems.
+
+---
+
+## CERTIFICATIONS
+
+- SQL Certification — Belfast Digital Skills Academy (2025)  
+- IELTS Academic — CEFR B2 (2025)
+
+---
+
+## LANGUAGES
+
+- English — B2 (Upper Intermediate)  
+- Ukrainian — C2 (Proficient)  
+- Russian — C2 (Proficient)
