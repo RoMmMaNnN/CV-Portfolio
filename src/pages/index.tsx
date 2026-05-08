@@ -28,7 +28,7 @@ const Home: React.FC = () => {
                 View Backend Projects
               </Link>
               <a 
-                href={`${basePath}/assets/Roman_Kriuchkov_Junior_Backend_Developer_CV.pdf`}
+                href={`${basePath}/assets/Roman_Kriuchkov_CV.pdf`}
                 className={`${styles.btn} ${styles.btnSecondary}`}
                 download
               >
