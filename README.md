@@ -1,86 +1,78 @@
-# ROMAN KRIUCHKOV
+# Roman Kriuchkov
 
-**Belfast, County Antrim**  
-+44 7795 270873 · roman.kriuchkov7@gmail.com  
-GitHub: https://github.com/RoMmMaNnN · Portfolio: https://rommmannn.github.io/CV-Portfolio · LinkedIn: https://linkedin.com/in/roman-kriuchkov
+Belfast | +44 7795 270873 | roman.kriuchkov7@gmail.com | [GitHub](https://github.com/RoMmMaNnN) | [Portfolio](https://rommmannn.github.io/CV-Portfolio) | [LinkedIn](https://linkedin.com/in/roman-kriuchkov)
 
 ---
 
-## SUMMARY
+## Summary
 
-**Junior Java Backend Developer** and Software Engineering student with commercial experience building backend services using Java and Spring Boot.  
-Hands-on experience with REST APIs, SQL persistence, Kafka-based messaging, security, and Docker.
-
----
-
-## EXPERIENCE
-
-### Backend Developer — Zardan Systems  
-*October 2024 – Present*
-
-- Built event-driven backend components consuming Kafka messages for asynchronous integration with external database systems.
-- Implemented idempotent Kafka consumers with schema validation, enabling safe retries and data consistency across services.
-- Developed secure service-to-service communication using mutual TLS (mTLS) within internal backend systems.
-- Designed backend services and mock REST APIs to emulate third-party integrations and support reliable integration testing.
-- Containerized backend services with Docker and Docker Compose to standardize local development and integration environments.
-
-### Software Development Trainee — Belfast Met & FIT (Bank of America)  
-*July 2025 – October 2025*
-
-- Completed industry-led software development programme covering Python, SQL, relational data modeling, and backend fundamentals.
-- Built basic REST-style backend components and worked with SQL queries through hands-on labs and assessments.
-
-### Mathematics Tutor / Academic Curator — StudentUA  
-*August 2024 – July 2025*
-
-- Delivered individual and group mathematics tutoring, developing clear explanations for complex concepts.
+Backend Engineer specializing in Java and Spring Boot development with 1.5+ years of experience building REST APIs, microservices, and transactional backend applications. Experienced with PostgreSQL, Redis, Apache Kafka, Docker, and Spring Security. Worked on authentication systems, asynchronous event-driven workflows, inter-service communication, API integrations, and distributed backend services. Focused on scalable backend development, clean system design, and reliable service architecture.
 
 ---
 
-## PROJECTS
+## Experience
 
-### LoanCompany — Spring Boot Backend Platform  
-*(GitHub: https://github.com/RoMmMaNnN/LoanCompany)*
+### [Backend Developer — Zardan Systems](https://zardansystems.com/en)
+**October 2025 – May 2026**
 
-- Built REST APIs for loan application, approval, and payment workflows using Spring Boot.
-- Implemented role-based access control with Spring Security and JWT authentication.
-- Integrated PostgreSQL (JPA/Hibernate) for transactional persistence and Kafka + Redis for event-driven processing and caching.
-
-### NestJS REST API — Learning Project
-
-- Developed REST APIs with JWT-based authentication and role-based authorization.
-- Implemented validated CRUD endpoints using DTOs and TypeORM.
-- Applied dependency injection and modular backend architecture principles.
+- Developed and documented backend services for a credit processing platform using Java, Spring Boot, Swagger/OpenAPI, PostgreSQL, Redis, Apache Kafka, and Docker.
+- Built Kafka-based asynchronous workflows for communication between orchestration services, monitoring systems, and external integrations.
+- Implemented idempotent processing logic to reduce duplicate transactional operations and improve consistency between distributed services.
+- Developed integration services for external data providers and internal orchestration systems.
+- Implemented secure service-to-service authentication and communication using Spring Security and mTLS.
+- Built internal mock and testing services to improve integration testing reliability and external system simulation.
+- Participated in API design, backend architecture discussions, workflow debugging, and microservice integration troubleshooting.
 
 ---
 
-## SKILLS
+### [Software Developer — Belfast Met & FIT (sponsored by Bank of America)](https://www.belfastmet.ac.uk/support-for-business/digitalskills)
+**July 2025 – October 2025**
 
-- **Core:** Java, Spring Boot, REST APIs, JPA/Hibernate  
-- **Data:** PostgreSQL, Redis  
-- **Messaging:** Apache Kafka  
-- **DevOps:** Docker, Docker Compose
-
----
-
-## EDUCATION
-
-**BEng Software Engineering — Queen’s University Belfast**  
-*2025 – Present*
-
-Previously completed Year 1 of Software Engineering at Igor Sikorsky Kyiv Polytechnic Institute (2024 – 2025), covering algorithms, Java, C/C++, networks, and computer systems.
+- Completed an intensive software engineering programme focused on Java, Spring Boot, SQL, relational databases, and REST API development.
+- Built backend applications using Java, Spring Boot, JPA/Hibernate, and PostgreSQL.
+- Awarded First Distinction for backend engineering and database development performance.
 
 ---
 
-## CERTIFICATIONS
+### [Backend Developer — NetLS](https://netls.com.ua/en-us/)
+**August 2024 – June 2025**
 
-- SQL Certification — Belfast Digital Skills Academy (2025)  
-- IELTS Academic — CEFR B2 (2025)
+- Developed backend services and REST APIs for loan application, approval, payment, and transactional workflows using Java and Spring Boot.
+- Implemented authentication and authorization systems using Spring Security, JWT, RBAC, and refresh token workflows.
+- Built PostgreSQL persistence layers using JPA/Hibernate, native SQL queries, and optimized database access patterns for transactional operations.
+- Implemented Kafka-based asynchronous processing and Redis caching for backend workflows and inter-service communication.
+- Containerized backend services using Docker and configured multi-service development environments with Docker Compose to improve local development consistency.
+- Wrote unit and integration tests using JUnit and Testcontainers to improve backend reliability and testing reproducibility.
+- Contributed to API design, backend architecture discussions, transaction handling, and microservice communication.
 
 ---
 
-## LANGUAGES
+## Skills
 
-- English — B2 (Upper Intermediate)  
-- Ukrainian — C2 (Proficient)  
-- Russian — C2 (Proficient)
+| Category | Technologies |
+|---|---|
+| **Backend** | Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, SQL, PostgreSQL, MySQL, Redis, Apache Kafka |
+| **Architecture & Systems** | Microservices, Distributed Systems, Event-Driven Architecture, Asynchronous Processing, Transaction Management |
+| **Testing** | JUnit, Testcontainers, Integration Testing |
+| **Authentication & Security** | JWT Authentication, RBAC, mTLS |
+| **DevOps & Tools** | Docker, Docker Compose, GitHub Actions, CI/CD, Git, Linux, Swagger/OpenAPI |
+
+---
+
+## Education
+
+**BEng Software Engineering** — Queen's University Belfast
+
+---
+
+## Certifications
+
+- SQL Certification — Belfast Digital Skills Academy (2025)
+- AWS Cloud Practitioner Essentials Training — AWS Skill Builder (2026)
+
+---
+
+## Languages
+
+- **English** — Upper-Intermediate (IELTS Academic 6.0, 2025)
+- **Ukrainian** — Native
